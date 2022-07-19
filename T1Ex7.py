@@ -1,11 +1,6 @@
-# Assigning an Interger value to a.
+# Create Variables using formats such as Upper CamelCase, Lower CamelCase, SnakeCase and
+# UPPERCA
 
-a=10
-print(a)
-# Assigning a String value to a.
-
-a="Character."
-print(a)
-
-# The data type automatically converts the type based on the value on the right side.
-# during the execution.
+VariableInUpperCamelCase=0
+variableInLowerCamerlCase=1
+variable_in_snake_case=2
